@@ -27,7 +27,7 @@
 目录结构示例：
 
 ```
-聊天记录备份目录/
+微信数据库目录-wxid-msg-videos/
 ├── main.exe              ← 放在这里
 ├── 某个HTML项目文件夹/
 │   ├── index.html
